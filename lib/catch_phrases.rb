@@ -1,6 +1,3 @@
-any_phrase = $phrase
-$phrase= "Do A Barrell Roll"
-
 def mario
   phrase = "It's-a me, Mario!"
   puts #{phrase}
