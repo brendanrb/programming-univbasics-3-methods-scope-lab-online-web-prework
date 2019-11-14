@@ -3,8 +3,7 @@ phrase= "Do A Barrell Roll"
 
 def mario
   phrase = "It's-a me, Mario!"
-  puts #
-  
+  puts #{phrase}
 end
 
 def toadstool
